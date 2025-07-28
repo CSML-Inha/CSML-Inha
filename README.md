@@ -3,7 +3,9 @@
 
 The INHA Control Systems and Mechatronics Lab (CSML) was founded by Professor Gi-Woo Kim in 2021 inherited its major research areas from Smart Systems and Structures Lab-II originally established in 2015. Our lab investigates new methods of advancing the field of data-driven mechatronics engineering; machine larning, measurement, and advanced control. The thrust area includes sensors and actuators, advanced control theory (model predictive control, Kalman filtering etc), and vehicular electronics. Our lab will continue to explore new research opportunities and to find potential graduate students with the expertise to conduct our on-going research projects. Please feel free to contact if you need further information.
 
-
+### 📫 Contact
+- 🌐 [csmlinha.ac.kr](https://csmlinha.ac.kr)
+- 📧 giwoo.kim@inha.ac.kr
 
 <!--
 **CSML-Inha/CSML-Inha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
