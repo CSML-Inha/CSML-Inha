@@ -1,4 +1,4 @@
-## CSML
+## Control Systems and Mechatronics Lab
 
 <!--
 **CSML-Inha/CSML-Inha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
