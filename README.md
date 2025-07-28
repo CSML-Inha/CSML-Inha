@@ -1,4 +1,4 @@
-## Control Systems and Mechatronics Lab
+# Control Systems and Mechatronics Lab
 ## Department of Mechnical Engineering, Inha University, South Korea
 <!--
 **CSML-Inha/CSML-Inha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
